@@ -1,0 +1,15 @@
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\bin\Debug\net6.0\Урок_8_Задача61.exe
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\bin\Debug\net6.0\Урок_8_Задача61.deps.json
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\bin\Debug\net6.0\Урок_8_Задача61.runtimeconfig.json
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\bin\Debug\net6.0\Урок_8_Задача61.dll
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\bin\Debug\net6.0\Урок_8_Задача61.pdb
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\Урок_8_Задача61.csproj.AssemblyReference.cache
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\Урок_8_Задача61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\Урок_8_Задача61.AssemblyInfoInputs.cache
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\Урок_8_Задача61.AssemblyInfo.cs
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\Урок_8_Задача61.csproj.CoreCompileInputs.cache
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\Урок_8_Задача61.dll
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\refint\Урок_8_Задача61.dll
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\Урок_8_Задача61.pdb
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\Урок_8_Задача61.genruntimeconfig.cache
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание\Урок_8_Задача61\obj\Debug\net6.0\ref\Урок_8_Задача61.dll
